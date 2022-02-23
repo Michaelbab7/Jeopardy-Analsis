@@ -39,5 +39,9 @@ Codecademy
 * Plotting bar charts and lines graphs to visualize our results
 * Labeling our graphs
 
+![alt text](https://github.com/Michaelbab7/Michael-Portfolio/blob/main/sales%20image.png)
+
+
+
 ### Data Source:
 KeithGalli
