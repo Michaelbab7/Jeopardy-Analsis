@@ -1,4 +1,4 @@
-# (Jeopardy-Analysis)[https://github.com/Michaelbab7/Jeopardy-Analsis/blob/main/Jeoprdy%20project.ipynb]
+# [Jeopardy-Analysis](https://github.com/Michaelbab7/Jeopardy-Analsis/blob/main/Jeoprdy%20project.ipynb)
 ## An analysis of  dataset of the game show Jeopardy:
 * Loading the dataset via pandas library. 
 * Cleaning columns name.
